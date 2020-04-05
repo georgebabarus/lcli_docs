@@ -139,7 +139,11 @@ Feel free to contribute to this project and make developer life essayer:
 * by submitting new ideas as a github issue `here <https://github.com/georgebabarus/lcli/issues/new>`_
 * by making pull request with specific bug fixes
 * for new features or architectural change please contact `George Babarus <https://github.com/georgebabarus>`_ to avoid double work on any way.
-  # Useful links
+
+Useful links
+============
+
+
 * https://mypy.readthedocs.io/en/latest/generics.html#generics
 * https://code-maven.com/interactive-shell-with-cmd-in-python
 * https://www.journaldev.com/16140/python-system-command-os-subprocess-call
