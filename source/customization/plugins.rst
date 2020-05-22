@@ -21,3 +21,7 @@ Fusce aliquet auctor cursus. Phasellus ex neque, vestibulum non est vitae, viver
 Donec vestibulum convallis justo, a faucibus lorem vulputate vel. Aliquam cursus odio eu felis sodales aliquet.
 Aliquam erat volutpat. Maecenas eget dictum mauris. Suspendisse arcu eros, condimentum eget risus sed,
 luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper semper enim commodo nec.
+
+
+.. raw:: html
+   :file: _static/analytics.html

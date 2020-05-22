@@ -41,3 +41,6 @@ Bring some ideas
 ----------------
 Feel free to share your ideas about the project.
 
+
+.. raw:: html
+   :file: _static/analytics.html

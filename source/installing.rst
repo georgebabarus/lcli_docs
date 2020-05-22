@@ -50,3 +50,6 @@ Install the package (or add it to your ``requirements.txt`` file):
     if __name__ == '__main__':
         main()
 
+
+.. raw:: html
+   :file: _static/analytics.html

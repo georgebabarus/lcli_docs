@@ -32,3 +32,6 @@ Simple example
     if __name__ == '__main__':
         main()
 
+
+.. raw:: html
+   :file: _static/analytics.html

@@ -25,3 +25,8 @@
     customization/plugins
     customization/demo
     customization/extend
+
+
+
+.. raw:: html
+   :file: _static/analytics.html
